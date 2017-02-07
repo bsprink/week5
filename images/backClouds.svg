@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1155 368" style="enable-background:new 0 0 1155 368;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#BBEEFF;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#EBFFFC;}
+	.st3{fill:url(#SVGID_1_);}
+	.st4{fill:url(#SVGID_2_);}
+	.st5{fill:url(#SVGID_3_);}
+	.st6{fill:url(#SVGID_4_);}
+	.st7{fill:url(#SVGID_5_);}
+	.st8{fill:url(#SVGID_6_);}
+	.st9{fill:url(#SVGID_7_);}
+	.st10{fill:url(#SVGID_8_);}
+	.st11{fill:url(#SVGID_9_);}
+	.st12{fill:url(#SVGID_10_);}
+	.st13{fill:url(#SVGID_11_);}
+</style>
+<g id="background">
+</g>
+<g id="frontClouds">
+</g>
+<g id="backClouds">
+	<g>
+		<g>
+			<g>
+				<circle class="st2" cx="45.5" cy="167.5" r="43.5"/>
+			</g>
+			<ellipse class="st2" cx="110" cy="208.5" rx="58" ry="38.5"/>
+			<ellipse class="st2" cx="168.5" cy="167" rx="83.5" ry="28"/>
+			<circle class="st2" cx="189" cy="132" r="35"/>
+		</g>
+		<g>
+			<ellipse class="st2" cx="553" cy="181" rx="127" ry="39"/>
+			<ellipse class="st2" cx="498" cy="147" rx="50" ry="47"/>
+			<ellipse class="st2" cx="652" cy="162.5" rx="39" ry="34.5"/>
+		</g>
+		<g>
+			<g>
+				<ellipse class="st2" cx="894.5" cy="92.2" rx="73.5" ry="86.2"/>
+				<ellipse class="st2" cx="979" cy="135.1" rx="69" ry="46.9"/>
+				<ellipse class="st2" cx="1101.5" cy="113.4" rx="55.5" ry="65.1"/>
+				<ellipse class="st2" cx="1047" cy="102.2" rx="43" ry="50.5"/>
+			</g>
+			<circle class="st2" cx="966.5" cy="106.5" r="48.5"/>
+		</g>
+		<g>
+			<g>
+				
+					<ellipse transform="matrix(3.163107e-02 -0.9995 0.9995 3.163107e-02 61.3339 679.457)" class="st2" cx="381.3" cy="308.1" rx="43.5" ry="43.5"/>
+			</g>
+			
+				<ellipse transform="matrix(3.163107e-02 -0.9995 0.9995 3.163107e-02 43.1594 574.6588)" class="st2" cx="318.1" cy="265.1" rx="38.5" ry="58"/>
+			
+				<ellipse transform="matrix(3.163107e-02 -0.9995 0.9995 3.163107e-02 -54.342 553.2806)" class="st2" cx="258.4" cy="304.7" rx="28" ry="83.5"/>
+			
+				<ellipse transform="matrix(3.163107e-02 -0.9995 0.9995 3.163107e-02 -109.5726 564.9426)" class="st2" cx="236.8" cy="339" rx="35" ry="35"/>
+		</g>
+		<g>
+			
+				<ellipse transform="matrix(2.781069e-03 -1 1 2.781069e-03 450.4328 997.7147)" class="st2" cx="725.5" cy="273" rx="48.1" ry="156.6"/>
+			
+				<ellipse transform="matrix(2.781069e-03 -1 1 2.781069e-03 475.829 1107.3914)" class="st2" cx="793.2" cy="315.1" rx="57.9" ry="61.6"/>
+			
+				<ellipse transform="matrix(2.781069e-03 -1 1 2.781069e-03 306.1908 898.0068)" class="st2" cx="603.3" cy="295.5" rx="42.5" ry="48.1"/>
+		</g>
+	</g>
+</g>
+<g id="middleClouds">
+</g>
+</svg>
