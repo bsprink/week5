@@ -1,8 +1,13 @@
+#stageWrap{
+	width: 1000px;
+	margin: 0px auto;
+}
 #stage{
 	position: absolute;
 	background-color: #29abe2;
 	width: 1000px;
 	height: 700px;
+	overflow: hidden;
 }
 #backClouds{
 	position: absolute;
