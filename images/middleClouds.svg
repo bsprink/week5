@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1194 568" style="enable-background:new 0 0 1194 568;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#BBEEFF;}
-	.st1{fill:#FFFFFF;}
-	.st2{fill:#EBFFFC;}
-	.st3{fill:url(#SVGID_1_);}
-	.st4{fill:url(#SVGID_2_);}
-	.st5{fill:url(#SVGID_3_);}
-	.st6{fill:url(#SVGID_4_);}
-	.st7{fill:url(#SVGID_5_);}
-	.st8{fill:url(#SVGID_6_);}
-	.st9{fill:url(#SVGID_7_);}
-	.st10{fill:url(#SVGID_8_);}
-	.st11{fill:url(#SVGID_9_);}
-	.st12{fill:url(#SVGID_10_);}
-	.st13{fill:url(#SVGID_11_);}
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:url(#SVGID_4_);}
+	.st4{fill:url(#SVGID_5_);}
+	.st5{fill:url(#SVGID_6_);}
+	.st6{fill:url(#SVGID_7_);}
+	.st7{fill:url(#SVGID_8_);}
+	.st8{fill:url(#SVGID_9_);}
+	.st9{fill:url(#SVGID_10_);}
+	.st10{fill:url(#SVGID_11_);}
 </style>
 <g id="background">
 </g>
@@ -27,120 +24,76 @@
 <g id="middleClouds">
 	<g>
 		<g>
-			<radialGradient id="SVGID_1_" cx="35.4375" cy="23.75" r="371.0535" gradientUnits="userSpaceOnUse">
-				<stop  offset="0" style="stop-color:#29ABE2"/>
-				<stop  offset="0.2068" style="stop-color:#69C4EB"/>
-				<stop  offset="0.4064" style="stop-color:#9ED9F2"/>
-				<stop  offset="0.5908" style="stop-color:#C8E9F8"/>
-				<stop  offset="0.7569" style="stop-color:#E6F5FC"/>
-				<stop  offset="0.8989" style="stop-color:#F8FCFE"/>
+			
+				<radialGradient id="SVGID_1_" cx="35.4375" cy="546.25" r="371.0535" gradientTransform="matrix(1 0 0 -1 0 570)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#F29169"/>
 				<stop  offset="1" style="stop-color:#FFFFFF"/>
 			</radialGradient>
-			<circle class="st3" cx="83.9" cy="128.1" r="83.9"/>
-			<radialGradient id="SVGID_2_" cx="35.4375" cy="23.75" r="371.0535" gradientUnits="userSpaceOnUse">
-				<stop  offset="0" style="stop-color:#29ABE2"/>
-				<stop  offset="0.2068" style="stop-color:#69C4EB"/>
-				<stop  offset="0.4064" style="stop-color:#9ED9F2"/>
-				<stop  offset="0.5908" style="stop-color:#C8E9F8"/>
-				<stop  offset="0.7569" style="stop-color:#E6F5FC"/>
-				<stop  offset="0.8989" style="stop-color:#F8FCFE"/>
+			<circle class="st0" cx="83.9" cy="128.1" r="83.9"/>
+			
+				<radialGradient id="SVGID_2_" cx="35.4375" cy="546.25" r="371.0535" gradientTransform="matrix(1 0 0 -1 0 570)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#F29169"/>
 				<stop  offset="1" style="stop-color:#FFFFFF"/>
 			</radialGradient>
-			<ellipse class="st4" cx="168.3" cy="114.6" rx="55.2" ry="60.9"/>
-			<radialGradient id="SVGID_3_" cx="35.4375" cy="23.75" r="371.0535" gradientUnits="userSpaceOnUse">
-				<stop  offset="0" style="stop-color:#29ABE2"/>
-				<stop  offset="0.2068" style="stop-color:#69C4EB"/>
-				<stop  offset="0.4064" style="stop-color:#9ED9F2"/>
-				<stop  offset="0.5908" style="stop-color:#C8E9F8"/>
-				<stop  offset="0.7569" style="stop-color:#E6F5FC"/>
-				<stop  offset="0.8989" style="stop-color:#F8FCFE"/>
+			<ellipse class="st1" cx="168.3" cy="114.6" rx="55.2" ry="60.9"/>
+			
+				<radialGradient id="SVGID_3_" cx="35.4375" cy="546.25" r="371.0535" gradientTransform="matrix(1 0 0 -1 0 570)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#F29169"/>
 				<stop  offset="1" style="stop-color:#FFFFFF"/>
 			</radialGradient>
-			<ellipse class="st5" cx="311.8" cy="120.9" rx="88.2" ry="83.5"/>
-			<radialGradient id="SVGID_4_" cx="35.4375" cy="23.75" r="371.0535" gradientUnits="userSpaceOnUse">
-				<stop  offset="0" style="stop-color:#29ABE2"/>
-				<stop  offset="0.2068" style="stop-color:#69C4EB"/>
-				<stop  offset="0.4064" style="stop-color:#9ED9F2"/>
-				<stop  offset="0.5908" style="stop-color:#C8E9F8"/>
-				<stop  offset="0.7569" style="stop-color:#E6F5FC"/>
-				<stop  offset="0.8989" style="stop-color:#F8FCFE"/>
+			<ellipse class="st2" cx="311.8" cy="120.9" rx="88.2" ry="83.5"/>
+			
+				<radialGradient id="SVGID_4_" cx="35.4375" cy="546.25" r="371.0535" gradientTransform="matrix(1 0 0 -1 0 570)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#F29169"/>
 				<stop  offset="1" style="stop-color:#FFFFFF"/>
 			</radialGradient>
-			<ellipse class="st6" cx="223.5" cy="62.8" rx="50.8" ry="59"/>
+			<ellipse class="st3" cx="223.5" cy="62.8" rx="50.8" ry="59"/>
 		</g>
 		<g>
-			<radialGradient id="SVGID_5_" cx="843.375" cy="265.5" r="390.7188" gradientUnits="userSpaceOnUse">
-				<stop  offset="0" style="stop-color:#29ABE2"/>
-				<stop  offset="0.2068" style="stop-color:#69C4EB"/>
-				<stop  offset="0.4064" style="stop-color:#9ED9F2"/>
-				<stop  offset="0.5908" style="stop-color:#C8E9F8"/>
-				<stop  offset="0.7569" style="stop-color:#E6F5FC"/>
-				<stop  offset="0.8989" style="stop-color:#F8FCFE"/>
+			
+				<radialGradient id="SVGID_5_" cx="843.375" cy="304.5" r="390.7188" gradientTransform="matrix(1 0 0 -1 0 570)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#F29169"/>
 				<stop  offset="1" style="stop-color:#FFFFFF"/>
 			</radialGradient>
-			<ellipse class="st7" cx="766.5" cy="143.8" rx="97.5" ry="93.8"/>
-			<radialGradient id="SVGID_6_" cx="843.375" cy="265.5" r="390.7188" gradientUnits="userSpaceOnUse">
-				<stop  offset="0" style="stop-color:#29ABE2"/>
-				<stop  offset="0.2068" style="stop-color:#69C4EB"/>
-				<stop  offset="0.4064" style="stop-color:#9ED9F2"/>
-				<stop  offset="0.5908" style="stop-color:#C8E9F8"/>
-				<stop  offset="0.7569" style="stop-color:#E6F5FC"/>
-				<stop  offset="0.8989" style="stop-color:#F8FCFE"/>
+			<ellipse class="st4" cx="766.5" cy="143.8" rx="97.5" ry="93.8"/>
+			
+				<radialGradient id="SVGID_6_" cx="843.375" cy="304.5" r="390.7188" gradientTransform="matrix(1 0 0 -1 0 570)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#F29169"/>
 				<stop  offset="1" style="stop-color:#FFFFFF"/>
 			</radialGradient>
-			<ellipse class="st8" cx="866.5" cy="131.3" rx="83.7" ry="71.9"/>
-			<radialGradient id="SVGID_7_" cx="843.375" cy="265.5" r="390.7188" gradientUnits="userSpaceOnUse">
-				<stop  offset="0" style="stop-color:#29ABE2"/>
-				<stop  offset="0.2068" style="stop-color:#69C4EB"/>
-				<stop  offset="0.4064" style="stop-color:#9ED9F2"/>
-				<stop  offset="0.5908" style="stop-color:#C8E9F8"/>
-				<stop  offset="0.7569" style="stop-color:#E6F5FC"/>
-				<stop  offset="0.8989" style="stop-color:#F8FCFE"/>
+			<ellipse class="st5" cx="866.5" cy="131.3" rx="83.7" ry="71.9"/>
+			
+				<radialGradient id="SVGID_7_" cx="843.375" cy="304.5" r="390.7188" gradientTransform="matrix(1 0 0 -1 0 570)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#F29169"/>
 				<stop  offset="1" style="stop-color:#FFFFFF"/>
 			</radialGradient>
-			<ellipse class="st9" cx="1063.2" cy="103.2" rx="130.8" ry="103.2"/>
-			<radialGradient id="SVGID_8_" cx="843.375" cy="265.5" r="390.7188" gradientUnits="userSpaceOnUse">
-				<stop  offset="0" style="stop-color:#29ABE2"/>
-				<stop  offset="0.2068" style="stop-color:#69C4EB"/>
-				<stop  offset="0.4064" style="stop-color:#9ED9F2"/>
-				<stop  offset="0.5908" style="stop-color:#C8E9F8"/>
-				<stop  offset="0.7569" style="stop-color:#E6F5FC"/>
-				<stop  offset="0.8989" style="stop-color:#F8FCFE"/>
+			<ellipse class="st6" cx="1063.2" cy="103.2" rx="130.8" ry="103.2"/>
+			
+				<radialGradient id="SVGID_8_" cx="843.375" cy="304.5" r="390.7188" gradientTransform="matrix(1 0 0 -1 0 570)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#F29169"/>
 				<stop  offset="1" style="stop-color:#FFFFFF"/>
 			</radialGradient>
-			<ellipse class="st10" cx="995.7" cy="204.8" rx="87.8" ry="67.2"/>
+			<ellipse class="st7" cx="995.7" cy="204.8" rx="87.8" ry="67.2"/>
 		</g>
 		<g>
-			<radialGradient id="SVGID_9_" cx="527.75" cy="543.625" r="303.5636" gradientUnits="userSpaceOnUse">
-				<stop  offset="0" style="stop-color:#29ABE2"/>
-				<stop  offset="0.2068" style="stop-color:#69C4EB"/>
-				<stop  offset="0.4064" style="stop-color:#9ED9F2"/>
-				<stop  offset="0.5908" style="stop-color:#C8E9F8"/>
-				<stop  offset="0.7569" style="stop-color:#E6F5FC"/>
-				<stop  offset="0.8989" style="stop-color:#F8FCFE"/>
+			
+				<radialGradient id="SVGID_9_" cx="527.75" cy="26.375" r="303.5636" gradientTransform="matrix(1 0 0 -1 0 570)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#F29169"/>
 				<stop  offset="1" style="stop-color:#FFFFFF"/>
 			</radialGradient>
-			<circle class="st11" cx="450.6" cy="455.5" r="112.5"/>
-			<radialGradient id="SVGID_10_" cx="527.75" cy="543.625" r="303.5636" gradientUnits="userSpaceOnUse">
-				<stop  offset="0" style="stop-color:#29ABE2"/>
-				<stop  offset="0.2068" style="stop-color:#69C4EB"/>
-				<stop  offset="0.4064" style="stop-color:#9ED9F2"/>
-				<stop  offset="0.5908" style="stop-color:#C8E9F8"/>
-				<stop  offset="0.7569" style="stop-color:#E6F5FC"/>
-				<stop  offset="0.8989" style="stop-color:#F8FCFE"/>
+			<circle class="st8" cx="450.6" cy="455.5" r="112.5"/>
+			
+				<radialGradient id="SVGID_10_" cx="527.75" cy="26.375" r="303.5636" gradientTransform="matrix(1 0 0 -1 0 570)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#F29169"/>
 				<stop  offset="1" style="stop-color:#FFFFFF"/>
 			</radialGradient>
-			<circle class="st12" cx="543.2" cy="395.3" r="81.6"/>
-			<radialGradient id="SVGID_11_" cx="527.75" cy="543.625" r="303.5636" gradientUnits="userSpaceOnUse">
-				<stop  offset="0" style="stop-color:#29ABE2"/>
-				<stop  offset="0.2068" style="stop-color:#69C4EB"/>
-				<stop  offset="0.4064" style="stop-color:#9ED9F2"/>
-				<stop  offset="0.5908" style="stop-color:#C8E9F8"/>
-				<stop  offset="0.7569" style="stop-color:#E6F5FC"/>
-				<stop  offset="0.8989" style="stop-color:#F8FCFE"/>
+			<circle class="st9" cx="543.2" cy="395.3" r="81.6"/>
+			
+				<radialGradient id="SVGID_11_" cx="527.75" cy="26.375" r="303.5636" gradientTransform="matrix(1 0 0 -1 0 570)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#F29169"/>
 				<stop  offset="1" style="stop-color:#FFFFFF"/>
 			</radialGradient>
-			<circle class="st13" cx="671.9" cy="340.1" r="91.1"/>
+			<circle class="st10" cx="671.9" cy="340.1" r="91.1"/>
 		</g>
 	</g>
 </g>

@@ -2,34 +2,55 @@
 	width: 1000px;
 	margin: 0px auto;
 }
+#secStageWrap{
+	width: 1000px;
+	margin: 0px auto;
+}
+#secStage{
+	position: absolute;
+	top: 850px;
+	background-image: url(../images/bg2-01.svg);
+	width: 1000px;
+	height: 1000px;
+	overflow: hidden;
+}
 #stage{
 	position: absolute;
-	background-color: #29abe2;
+	background-image: url(../images/bg.svg);
 	width: 1000px;
-	height: 700px;
+	height: 1000px;
 	overflow: hidden;
 }
 #backClouds{
 	position: absolute;
 	top: 0px;
-	left: 100px; 
-	width: 1300px;
+	left: 0px; 
+	width: 1600px;
 	height: 250px;
-	background: url(../images/backClouds.svg) no-repeat;
+	background: url(../images/backClouds.svg) ;
 }
 #middleClouds{
 	position: absolute;
-	top: 250px;
-	left: 80px; 
-	width: 1300px;
+	top: 175px;
+	left: 0px; 
+	width: 1600px;
 	height: 350px;
 	background: url(../images/middleClouds.svg) no-repeat;
 }	
 #frontClouds{
 	position: absolute;
 	top: 300px;
-	left: -50px; 
-	width: 1500px;
-	height: 550px;
+	left: 0px; 
+	width: 1600px;
+	height: 650px;
 	background: url(../images/frontClouds.svg) no-repeat;
+}
+#me{
+	position: absolute;
+	top: 0px;
+	left: 0px; 
+	width: 1600px;
+	height: 650px;
+	background: url(../images/me-01.svg) no-repeat;
+
 }		

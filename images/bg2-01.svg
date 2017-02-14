@@ -3,27 +3,20 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1280 1024" style="enable-background:new 0 0 1280 1024;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#F29169;}
+	.st0{fill:#1FE5B4;}
+	.st1{opacity:5.000000e-02;}
 </style>
-<g id="background">
-	<g>
-		<rect x="-1" y="-2" class="st0" width="1280" height="1027"/>
-	</g>
-</g>
-<g id="frontClouds">
-</g>
-<g id="backClouds">
-</g>
-<g id="middleClouds">
-</g>
 <g>
+	<rect class="st0" width="1280" height="1024"/>
+</g>
+<g class="st1">
 	<defs>
-		<rect id="SVGID_1_" x="-2" y="0" width="1281" height="1024.9"/>
+		<rect id="SVGID_1_" x="1" class="st1" width="1279" height="1023.7"/>
 	</defs>
 	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;opacity:5.000000e-02;"/>
 	</clipPath>
-	<g style="opacity:5.000000e-02;clip-path:url(#SVGID_2_);">
+	<g style="clip-path:url(#SVGID_2_);">
 		
 			<image style="overflow:visible;" width="1024" height="682" xlink:href="data:image/jpeg;base64,/9j/4SS1RXhpZgAATU0AKgAAAAgADAEAAAMAAAABBAAAAAEBAAMAAAABAqoAAAECAAMAAAADAAAA
 ngEGAAMAAAABAAIAAAESAAMAAAABAAEAAAEVAAMAAAABAAMAAAEaAAUAAAABAAAApAEbAAUAAAAB
@@ -8020,7 +8013,7 @@ B/1f+z1X/Wf8j/8Auh/b+G1/y/8A2v8A4v0/+z/5E6f/ADf9V+u/n/x/6n+N1s/+YfoFf2/2fVR/
 T8H6mv8A/wBP/e/7XDrf/wDM/qUv+YfQ/Ts/t/2ul/2fVsfov/kh/SN/t/8Ad/Fi61X/ACP8Dv7f
 wfTD8H/H/wBX/huXSv8Al36et/zv9H+Av+Sf7f8AU6j/AJl9IP1f4v7P+n/hf/gurH1v0Dv7Pxfq
 0/o//ff+96+Uf8p+hT/U/rPpB+Pq1/zr9drPx/Q/Tn+P/hf6X/ndbn+z6K/7PrfQ/wD9d/d6rfrP
-pR+t/RfjZ/zDr//Z" transform="matrix(1.5028 0 0 1.5028 -2 0)">
+pR+t/RfjZ/zDr//Z" transform="matrix(1.501 0 0 1.501 1 0)">
 		</image>
 	</g>
 </g>

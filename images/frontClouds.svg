@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1465 632" style="enable-background:new 0 0 1465 632;" xml:space="preserve">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1522.6 690.7" style="enable-background:new 0 0 1522.6 690.7;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#BBEEFF;}
-	.st1{fill:#FFFFFF;}
-	.st2{fill:#EBFFFC;}
-	.st3{fill:url(#SVGID_1_);}
-	.st4{fill:url(#SVGID_2_);}
-	.st5{fill:url(#SVGID_3_);}
-	.st6{fill:url(#SVGID_4_);}
-	.st7{fill:url(#SVGID_5_);}
-	.st8{fill:url(#SVGID_6_);}
-	.st9{fill:url(#SVGID_7_);}
-	.st10{fill:url(#SVGID_8_);}
-	.st11{fill:url(#SVGID_9_);}
-	.st12{fill:url(#SVGID_10_);}
-	.st13{fill:url(#SVGID_11_);}
+	.st0{fill:#FFFFFF;}
 </style>
 <g id="background">
-</g>
-<g id="frontClouds">
-	<g>
-		<g>
-			<circle class="st1" cx="125.9" cy="133.1" r="83.9"/>
-			<ellipse class="st1" cx="210.3" cy="119.6" rx="55.2" ry="60.9"/>
-			<ellipse class="st1" cx="353.8" cy="125.9" rx="88.2" ry="83.5"/>
-			<ellipse class="st1" cx="265.5" cy="67.8" rx="50.8" ry="59"/>
-		</g>
-		<g>
-			<ellipse class="st1" cx="906.5" cy="147.8" rx="97.5" ry="93.8"/>
-			<ellipse class="st1" cx="1006.5" cy="135.3" rx="83.7" ry="71.9"/>
-			<ellipse class="st1" cx="1203.2" cy="107.2" rx="130.8" ry="103.2"/>
-			<ellipse class="st1" cx="1135.7" cy="208.8" rx="87.8" ry="67.2"/>
-		</g>
-		<g>
-			<circle class="st1" cx="507.6" cy="373.5" r="112.5"/>
-			<circle class="st1" cx="600.2" cy="313.3" r="81.6"/>
-			<circle class="st1" cx="728.9" cy="258.1" r="91.1"/>
-		</g>
-		<g>
-			<ellipse class="st1" cx="722" cy="540" rx="722" ry="96"/>
-		</g>
-		<g>
-			<circle class="st1" cx="645.9" cy="400.1" r="83.9"/>
-			<ellipse class="st1" cx="730.3" cy="386.6" rx="55.2" ry="60.9"/>
-			<ellipse class="st1" cx="873.8" cy="392.9" rx="88.2" ry="83.5"/>
-			<ellipse class="st1" cx="785.5" cy="334.8" rx="50.8" ry="59"/>
-		</g>
-		<g>
-			<circle class="st1" cx="149.6" cy="508.5" r="112.5"/>
-			<circle class="st1" cx="242.2" cy="448.3" r="81.6"/>
-			<circle class="st1" cx="370.9" cy="393.1" r="91.1"/>
-		</g>
-		<g>
-			<circle class="st1" cx="804.6" cy="424.5" r="112.5"/>
-			<circle class="st1" cx="897.2" cy="364.3" r="81.6"/>
-			<circle class="st1" cx="1025.9" cy="309.1" r="91.1"/>
-		</g>
-		<g>
-			<ellipse class="st1" cx="1037.5" cy="437.8" rx="97.5" ry="93.8"/>
-			<ellipse class="st1" cx="1137.5" cy="425.3" rx="83.7" ry="71.9"/>
-			<ellipse class="st1" cx="1334.2" cy="397.2" rx="130.8" ry="103.2"/>
-			<ellipse class="st1" cx="1266.7" cy="498.8" rx="87.8" ry="67.2"/>
-		</g>
-	</g>
 </g>
 <g id="backClouds">
 </g>
 <g id="middleClouds">
+</g>
+<g>
+	<g id="frontClouds">
+		<g>
+			<g>
+				<circle class="st0" cx="158.5" cy="133.1" r="83.9"/>
+				<ellipse class="st0" cx="242.9" cy="119.6" rx="55.2" ry="60.9"/>
+				<ellipse class="st0" cx="386.4" cy="125.9" rx="88.2" ry="83.5"/>
+				<ellipse class="st0" cx="298.1" cy="67.8" rx="50.8" ry="59"/>
+			</g>
+			<g>
+				<ellipse class="st0" cx="939.1" cy="147.8" rx="97.5" ry="93.8"/>
+				<ellipse class="st0" cx="1039.1" cy="135.3" rx="83.7" ry="71.9"/>
+				<ellipse class="st0" cx="1235.8" cy="107.2" rx="130.8" ry="103.2"/>
+				<ellipse class="st0" cx="1168.3" cy="208.8" rx="87.8" ry="67.2"/>
+			</g>
+			<g>
+				<circle class="st0" cx="540.2" cy="373.5" r="112.5"/>
+				<circle class="st0" cx="632.8" cy="313.3" r="81.6"/>
+				<circle class="st0" cx="761.5" cy="258.1" r="91.1"/>
+			</g>
+			<g>
+				<ellipse class="st0" cx="754.6" cy="540" rx="722" ry="96"/>
+			</g>
+			<g>
+				<circle class="st0" cx="678.5" cy="400.1" r="83.9"/>
+				<ellipse class="st0" cx="762.9" cy="386.6" rx="55.2" ry="60.9"/>
+				<ellipse class="st0" cx="906.4" cy="392.9" rx="88.2" ry="83.5"/>
+				<ellipse class="st0" cx="818.1" cy="334.8" rx="50.8" ry="59"/>
+			</g>
+			<g>
+				<circle class="st0" cx="182.2" cy="508.5" r="112.5"/>
+				<circle class="st0" cx="274.8" cy="448.3" r="81.6"/>
+				<circle class="st0" cx="403.5" cy="393.1" r="91.1"/>
+			</g>
+			<g>
+				<circle class="st0" cx="837.2" cy="424.5" r="112.5"/>
+				<circle class="st0" cx="929.8" cy="364.3" r="81.6"/>
+				<circle class="st0" cx="1058.5" cy="309.1" r="91.1"/>
+			</g>
+			<g>
+				<ellipse class="st0" cx="1070.1" cy="437.8" rx="97.5" ry="93.8"/>
+				<ellipse class="st0" cx="1170.1" cy="425.3" rx="83.7" ry="71.9"/>
+				<ellipse class="st0" cx="1366.8" cy="397.2" rx="130.8" ry="103.2"/>
+				<ellipse class="st0" cx="1299.3" cy="498.8" rx="87.8" ry="67.2"/>
+			</g>
+		</g>
+	</g>
+	<circle class="st0" cx="91.1" cy="544.9" r="91.1"/>
+	<circle class="st0" cx="312.4" cy="577" r="91.1"/>
+	<circle class="st0" cx="447.5" cy="577" r="91.1"/>
+	<circle class="st0" cx="565.7" cy="577" r="91.1"/>
+	<circle class="st0" cx="685.7" cy="577" r="91.1"/>
+	<circle class="st0" cx="818.2" cy="577" r="91.1"/>
+	<circle class="st0" cx="949.7" cy="577" r="91.1"/>
+	<circle class="st0" cx="1105" cy="588.3" r="91.1"/>
+	<circle class="st0" cx="1225" cy="588.3" r="91.1"/>
+	<circle class="st0" cx="1385.5" cy="599.6" r="91.1"/>
+	<circle class="st0" cx="1431.5" cy="529.9" r="91.1"/>
 </g>
 </svg>
