@@ -17,6 +17,53 @@ $(document).mousemove(function(p){
 		$("#frontClouds").css("left",String(p.pageX * -.1) + "px" );
 		$("#middleClouds").css("left",String(p.pageX * .0 ) + "px" );
 		$("#backClouds").css("left",String(p.pageX * .0) + "px" );
-		$("#me").css("left",String(p.pageX * .100) + "px" );
+		//$("#me").css("left",String(p.pageX * .100) + "px" );
 	}
+});
+
+$(document).scroll(function(){
+	console.log($(document).scrollTop());
+
+	$("#row1").css("right", String($(document).scrollTop() - 1000) +"px");
+
+	if( $ (document).scrollTop() > 0){
+		$("#row2").css("left", String ($(document).scrollTop() - 1000) + "px");
+	}
+	
+});
+
+var animationCount = 0;
+var guyMoving = false;
+var moveGuyTimer; 
+
+setInterval(showNum, 246);
+
+function showNum(){
+	animationCount ++;
+	if(animationCount > 4){
+		animationCount = 0;
+		clearInterval(moveGuyTimer);
+		guyMoving = false;
+	}
+	if(animationCount == 1){
+
+		document.getElementById("me").style.backgroundPosition = "0px 0px";
+	} 
+	else if(animationCount == 2){
+		document.getElementById("me").style.backgroundPosition = "-246px 0px";
+
+	} else if(animationCount == 3){
+		document.getElementById("me").style.backgroundPosition = "-492px 0px";
+
+	} else if(animationCount == 4){
+		document.getElementById("me").style.backgroundPosition = "-738px 0px";
+	}
+}
+
+$(document).scroll(function(){
+	if(guyMoving == false){
+		moveGuyTimer = setInterval(showNum, 246);
+		guyMoving = true;
+	}
+	
 });
