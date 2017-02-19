@@ -8,7 +8,7 @@ $(document).scroll(function(){
 	$("#frontClouds").css("left",String($(document).scrollTop() -70) + "px" );
 	$("#middleClouds").css("left",String($(document).scrollTop() * .5) + "px" );
 	$("#backClouds").css("left",String($(document).scrollTop() * .2) + "px" );
-	$("#me").css("left",String($(document).scrollTop() * .2) + "px" );
+	//$("#me").css("left",String($(document).scrollTop() * .2) + "px" );
 });
 
 $(document).mousemove(function(p){
@@ -50,13 +50,13 @@ function showNum(){
 		document.getElementById("me").style.backgroundPosition = "0px 0px";
 	} 
 	else if(animationCount == 2){
-		document.getElementById("me").style.backgroundPosition = "-246px 0px";
+		document.getElementById("me").style.backgroundPosition = "-114px 0px";
 
 	} else if(animationCount == 3){
-		document.getElementById("me").style.backgroundPosition = "-492px 0px";
+		document.getElementById("me").style.backgroundPosition = "-214px 0px";
 
 	} else if(animationCount == 4){
-		document.getElementById("me").style.backgroundPosition = "-738px 0px";
+		document.getElementById("me").style.backgroundPosition = "-314px 0px";
 	}
 }
 
